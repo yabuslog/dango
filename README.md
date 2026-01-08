@@ -14,8 +14,9 @@ yarn dev
 yarn format
 ```
 
-## Run tests みられたら困る
+## Run tests
 
 ```
 yarn test
 ```
+みられたら困る
